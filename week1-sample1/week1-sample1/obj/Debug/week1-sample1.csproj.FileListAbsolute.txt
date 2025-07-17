@@ -1,0 +1,15 @@
+C:\Users\008025670\source\repos\week1-sample1\week1-sample1\obj\Debug\week1-sample1.csproj.AssemblyReference.cache
+C:\Users\008025670\source\repos\week1-sample1\week1-sample1\obj\Debug\week1-sample1.csproj.CoreCompileInputs.cache
+C:\Users\008025670\source\repos\week1-sample1\week1-sample1\bin\Debug\week1-sample1.exe.config
+C:\Users\008025670\source\repos\week1-sample1\week1-sample1\bin\Debug\week1-sample1.exe
+C:\Users\008025670\source\repos\week1-sample1\week1-sample1\bin\Debug\week1-sample1.pdb
+C:\Users\008025670\source\repos\week1-sample1\week1-sample1\obj\Debug\week1-sample1.exe
+C:\Users\008025670\source\repos\week1-sample1\week1-sample1\obj\Debug\week1-sample1.pdb
+C:\Users\andyj\source\repos\week1-sample1\week1-sample1\bin\Debug\week1-sample1.exe.config
+C:\Users\andyj\source\repos\week1-sample1\week1-sample1\bin\Debug\week1-sample1.exe
+C:\Users\andyj\source\repos\week1-sample1\week1-sample1\bin\Debug\week1-sample1.pdb
+C:\Users\andyj\source\repos\week1-sample1\week1-sample1\obj\Debug\week1-sample1.csproj.AssemblyReference.cache
+C:\Users\andyj\source\repos\week1-sample1\week1-sample1\obj\Debug\week1-sample1.exe.config
+C:\Users\andyj\source\repos\week1-sample1\week1-sample1\obj\Debug\week1-sample1.csproj.CoreCompileInputs.cache
+C:\Users\andyj\source\repos\week1-sample1\week1-sample1\obj\Debug\week1-sample1.exe
+C:\Users\andyj\source\repos\week1-sample1\week1-sample1\obj\Debug\week1-sample1.pdb
